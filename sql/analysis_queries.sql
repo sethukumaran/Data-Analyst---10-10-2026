@@ -1,7 +1,6 @@
 
 -- Tech Support Analysis - SQLite
--- Load CSV externally into a table named tech_support_raw, then run these queries.
--- Python project also creates a cleaned SQLite database.
+
 
 -- 1. Overall KPI
 SELECT COUNT(*) AS total_conversations,
